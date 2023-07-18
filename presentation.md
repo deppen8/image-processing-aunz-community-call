@@ -46,8 +46,6 @@ Moved from "beta" to "stable" in January 2023.
 - Manipulating images using python and scikit-image library.
 - Extracting data / statistics from images.
 
-# How do we think about image data?
-
 # Key concepts
 
 - Pixels
